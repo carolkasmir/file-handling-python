@@ -1,0 +1,6 @@
+Exploring file operations with Python!
+The current year is 2024.
+Here's a statement that includes a number: 87.
+Appending a new line to the file.
+Here's another line with a different number: 77.
+This line concludes the new additions.
